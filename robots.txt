@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dbrue.github.io/sxZ/sitemap.sxZ.gz
